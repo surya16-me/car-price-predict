@@ -1,11 +1,5 @@
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sumit0072/Car-Price-Prediction-Project?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/sumit0072/Car-Price-Prediction-Project?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/sumit0072/Car-Price-Prediction-Project?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/sumit0072/Car-Price-Prediction-Project?color=red&style=plastic)
-
-
 <h1>Car Dekho Price Prediction</h1>
 
 <h2>Table of contents</h2>
@@ -43,7 +37,7 @@ A preview of top five rows of the Car Dekho dataset.
 |4|    swift | 2014 |          4.60	|          6.87	|      42450 |    Diesel |   	Dealer |       Manual |	    0 |
 
 <h3>Description of variables in the dataset</h3><a id="4"></a>
-Above dataset contains information about used cars listed on <a href='www.cardekho.com'><u>website</u></a>. This data can be used for a lot of purposes such as car price prediction using Machine Learning algorithms.
+Above dataset contains information about used cars listed on <a href='[https://www.kaggle.com/datasets/shindenikhil/car-dekho-data]'><u>website</u></a>. This data can be used for a lot of purposes such as car price prediction using Machine Learning algorithms.
 The columns in the given dataset are as follows:
 
 ```Car_Name:``` Name of Car sold
@@ -120,5 +114,3 @@ The columns in the given dataset are as follows:
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
