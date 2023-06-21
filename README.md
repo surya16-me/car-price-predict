@@ -8,7 +8,7 @@
 
 1. [Objective](#1)<br>
 2. [Quick Demo](#2)<br>   
-3. [Dataset Prview](#3)<br>
+3. [Dataset Preview](#3)<br>
 4. [Description of variables in the dataset](#4)<br>
 5. [Car Price Prediction directory tree](#5)<br>
 6. [Installation](#6)<br>
@@ -96,7 +96,7 @@ The columns in the given dataset are as follows:
 
 ```car data.csv```  : conatins raw data as csv file
 
-<h3>Installation</h3><a id=""></a>
+<h3>Installation</h3><a id="6"></a>
 
 * Clone this repository and unzip it.
 
