@@ -6,24 +6,17 @@
 
 <div class="alert alert-info alert-info" style="margin-top: 20px">
 
-1. [Objective](#1)<br>
-2. [Quick Demo](#2)<br>   
-3. [Dataset Preview](#3)<br>
-4. [Description of variables in the dataset](#4)<br>
-5. [Car Price Prediction directory tree](#5)<br>
-6. [Installation](#6)<br>
-7. [Technologies Used](#7)<br>
+1. [Objective](#1)<br>   
+2. [Dataset Preview](#3)<br>
+3. [Description of variables in the dataset](#4)<br>
+4. [Car Price Prediction directory tree](#5)<br>
+5. [Installation](#6)<br>
+6. [Technologies Used](#7)<br>
 </div>
 <hr>
 
 <h3>Objective</h3><a id="1"></a>
-<p>In this project, the objective is to predict Car Selling Price on various features like Car's Present_Price, Kms_Driven, Owner, Fuel_Type, Seller_Type, Transmission. We will use the CAR DEKHO dataset from Kaggle. This dataset contains information about used cars listed on <a href='www.cardekho.com'><u>website</u></a></p>
-
-<h3>Quick Demo</h3><a id="2"></a>
-
-![demo_gif](https://github.com/sumit0072/Car-Price-Prediction-Project/blob/main/demo.gif)
-
-<br><p>We can predict Car Selling Price by filling the data over UI and after that prediction will be displayed over UI.</p>
+<p>In this project, the objective is to predict Car Selling Price on various features like Car's Present_Price, Kms_Driven, Owner, Fuel_Type, Seller_Type, Transmission. We will use the CAR DEKHO dataset from Kaggle. This dataset contains information about used cars listed on <a href='https://www.kaggle.com/datasets/shindenikhil/car-dekho-data'><u>website</u></a></p>
 
 <h3>Dataset Prview</h3><a id="3"></a>
 A preview of top five rows of the Car Dekho dataset.
@@ -37,7 +30,7 @@ A preview of top five rows of the Car Dekho dataset.
 |4|    swift | 2014 |          4.60	|          6.87	|      42450 |    Diesel |   	Dealer |       Manual |	    0 |
 
 <h3>Description of variables in the dataset</h3><a id="4"></a>
-Above dataset contains information about used cars listed on <a href='[https://www.kaggle.com/datasets/shindenikhil/car-dekho-data]'><u>website</u></a>. This data can be used for a lot of purposes such as car price prediction using Machine Learning algorithms.
+Above dataset contains information about used cars listed on <a href='https://www.kaggle.com/datasets/shindenikhil/car-dekho-data'><u>website</u></a>. This data can be used for a lot of purposes such as car price prediction using Machine Learning algorithms.
 The columns in the given dataset are as follows:
 
 ```Car_Name:``` Name of Car sold
