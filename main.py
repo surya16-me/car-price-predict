@@ -47,9 +47,9 @@ def predict():
         prediction=model.predict([[Present_Price,Kms_Driven2,Owner,Year,Fuel_Type_Diesel,Fuel_Type_Petrol,Seller_Type_Individual,Transmission_Mannual]])
         output=round(prediction[0],2)
         if output < 0:
-            return jsonify({"prediction_texts=Sorry you cannot sell this car!"})
+            return jsonify({"Sorry you cannot sell this car!"})
         else:
-            return jsonify({"prediction_text=You Can Sell The Car at Rs. {} Lakhs.format(output)"})
+            return jsonify({"You Can Sell The Car at Rs. {} Lakhs.format(output)"})
     else:
         return jsonify({"Car Price Prediction"})
 
